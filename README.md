@@ -1,1 +1,8 @@
-# Hello!
+# Hello, I am JP Mancini!
+
+* I’m currently a Junior at Georgetown University.
+* I’m currently learning more about Machine Learning and Theoretical Computer Science.
+* I’m looking to collaborate on projects this summer.
+* Ask me about my projects or any tech related stuff.
+* How to reach me: Twitter - @JPMancini2 , LinkedIn - @John "JP" Mancini
+* Fun fact: I love the oudoors and being active. I love playing rugby and skiing.
