@@ -7,4 +7,7 @@
 * How to reach me: LinkedIn - [@John "JP" Mancini](https://www.linkedin.com/in/john-jp-mancini-b750a8159/)
 * Fun fact: I love the oudoors and being active. I enjoy playing rugby and skiing.
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmancini">
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=jpmancini&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
