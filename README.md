@@ -1,6 +1,6 @@
 # Hello, I am JP Mancini!
 
-* I’m currently a Junior at Georgetown University.
+* I’m currently a Senior at Georgetown University.
 * I’m currently learning more about Machine Learning and Theoretical Computer Science.
 * I’m looking to collaborate on projects this summer.
 * Ask me about my projects or any tech related stuff.
