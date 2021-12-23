@@ -2,7 +2,7 @@
 
 * I’m currently a Senior at Georgetown University.
 * I’m currently learning more about Machine Intelligence and Cognitive Science.
-* Ask me about my projects or any tech related stuff.
+* Ask me about my projects or anything machine intelligence related.
 * How to reach me: LinkedIn - [@John "JP" Mancini](https://www.linkedin.com/in/john-jp-mancini-b750a8159/), Email - johnmancinip@gmail.com
 * Fun fact: I love the oudoors and being active. I enjoy playing rugby and skiing.
 
